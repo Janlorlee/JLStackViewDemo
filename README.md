@@ -2,4 +2,4 @@
 A simple UIStackView demo with Swift 
 
 
-![Markdown preferences pane](/Users/janlor/Desktop/JLStackViewDemo/Pictures/JLStackViewLicecap.gif)
+![JLStackViewLicecap](https://github.com/Janlor/JLStackViewDemo/Pictures/JLStackViewLicecap.gif)
